@@ -1,0 +1,10 @@
+{
+    "charger_ws_url": "ws://localhost:9002",
+    "action": "connect",
+    "battery_capacity": 75.0,
+    "soc_at_start": 42.0,
+    "soc_min": 20.0,
+    "soc_max": 90.0,
+    "target_value": 90.0,
+    "target_time": "2026-09-15T17:00:00+03:00"
+}

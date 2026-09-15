@@ -1,0 +1,8 @@
+{
+  "input": [],
+  "output": [{"sensor": 7}],
+  "input_xml_path": "sample_entsoe_day_ahead.xml",
+  "multiplier": 1.2,
+  "adder": 35.0,
+  "transformations": []
+}

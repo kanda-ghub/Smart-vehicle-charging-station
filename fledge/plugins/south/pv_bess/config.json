@@ -1,0 +1,8 @@
+{
+    "plugin": {
+        "description": "PV BESS plugin",
+        "type": "string",
+        "default": "pv_bess",
+        "readonly": "false"
+    }
+}
